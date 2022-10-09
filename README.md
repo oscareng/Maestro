@@ -14,7 +14,7 @@ Homepage offers a couple different functionalities. In the bottom left, links to
 # Genre Selections
 Choose your first "vibe"
 
-[Screenshot 2022-10-08 171950](https://user-images.githubusercontent.com/95602879/194731981-c81fb531-4992-42a4-a103-e05123d76c37.png)
+![Screenshot 2022-10-08 171950](https://user-images.githubusercontent.com/95602879/194732147-76338ebc-4b10-42d8-85d9-fc12fb0c08e0.png)
 
 Choose your second "vibe"
 
