@@ -28,4 +28,4 @@ These two selections are then fed into the Spotify reccomendations API which ret
 
 # That's All!
 
-This application was created during my time in Full Stack Academy bootcamp and was developed in a scrum team of my peers. The current iteration you see here is slightly more tuned to my personal vision of the project. During my time working on this project I personally developed the entire player, the requests to Spotify's API, and the homepage. Thanks for taking the time to check out my project!
+This application was created during my time in Full Stack Academy bootcamp and was developed in a scrum team of my peers. The current iteration you see here is slightly more tuned to my personal vision of the project. During my time working on this project I developed the  in-app player, the requests to Spotify's API, and the homepage. Thanks for taking the time to check out my project!
