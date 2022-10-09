@@ -26,3 +26,6 @@ These two selections are then fed into the Spotify reccomendations API which ret
 
 ![image](https://user-images.githubusercontent.com/95602879/194732024-d391add7-75d3-41d3-af81-13f831f62c53.png)
 
+# That's All!
+
+This application was created during my time in Full Stack Academy bootcamp and was developed in a scrum team of my peers. The current iteration you see here is slightly more tuned to my personal vision of the project. During my time working on this project I personally developed the entire player, the requests to Spotify's API, and the homepage. Thanks for taking the time to check out my project!
