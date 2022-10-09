@@ -1,5 +1,4 @@
------Maestro-----
+# Welcome to Maestro!
 
-Currently, the spotify web api only allows a certain amount of users to access applications. This app unfortunately is not accessible for demo unless you have a spotify account and are whitelisted. Please email me at oscarrrolf@gmail.com so that I may add you to the whitelist to demo my application.
+Due to restrictions on Spotify's web API please refer to the following images for the demo of this application. Alternatively, you may fork the repository and run npm start to take a look. However, you will be unable to access the main functionality of the application. Spotify's API requires whitelisting to access requests sent to their API, and I assume you would rather just take a look this way. 
 
-Furthermore, please note that this is a work in progress! Thank you for your time.
