@@ -1,5 +1,11 @@
 # Welcome to Maestro!
 
-Due to restrictions on Spotify's web API please refer to the following images for the demo of this application. Alternatively, you may fork the repository and input the command npm start to take a look (hosts on localhost:8888). However, you will be unable to access the main functionality of the application. Spotify's API requires whitelisting to access requests sent to their API, and I assume you would rather not wait to be whitelisted. 
+Please fork this repository and run npm start to take a look (application will be hosted on localhost:8888). Alternatively, you may look at this short walkthrough for a brief overview of the application.
+
+# Homepage
 
 ![Screenshot 2022-10-08 171407](https://user-images.githubusercontent.com/95602879/194731880-8d0530fa-820c-4fde-9f9d-9067cfc0a9de.png)
+
+Homepage offers a couple different functionalities. In the bottom left, links to the github repository, my linkedin, and spotify are available. Upon clicking the "Login with Spotify" button, you will be taken to the following page via OAuth. 
+
+![Screenshot 2022-10-08 171407](https://user-images.githubusercontent.com/95602879/194731958-243a3729-17f8-4f90-a8d3-004a545fabd3.png)
