@@ -20,10 +20,6 @@ const strategy = new SpotifyStrategy(
       token: accessToken,
       refreshToken: refreshToken,
     });
-    // if (!User.exists({ spotifyId: profile.id })) {
-    //   await user.save()
-    // } else {
-    //   await User.findOneAndUpdate({ spotifyId: profile.id }, {token: accessToken, refreshToken: refreshToken})
     return done(null, user);
   }
 );

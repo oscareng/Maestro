@@ -12,12 +12,12 @@ const Footer = () => {
     },
     {
       id: 2,
-      link: "https://github.com/MachineLearners10/SpotifyApp",
+      link: "https://github.com/oscareng/Maestro",
       icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn11Rru16VFClaKhYzoL9yGLIwOEaggMpa1Q&usqp=CAU",
     },
     {
       id: 5,
-      link: `https://www.linkedin.com/shareArticle?url=${postUrl}&title=${postTitle}`,
+      link: `https://www.linkedin.com/in/oscar-rolf-3539881b7/`,
       icon: "https://www.citypng.com/public/uploads/preview/hd-white-square-outline-linkedin-in-icon-symbol-png-31623972553hxk4l9ziuw.png",
     },
   ];
